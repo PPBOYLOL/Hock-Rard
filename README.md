@@ -1,7 +1,3 @@
-Here's an exaggeratedly detailed README for a BattleBot named **"The Dwayne 'The Rock' Johnson"**:
-
----
-
 # README for "The Dwayne 'The Rock' Johnson" BattleBot
 
 ## Table of Contents
