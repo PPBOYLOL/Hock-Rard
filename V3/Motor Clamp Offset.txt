@@ -1,0 +1,4 @@
+﻿"Offset"=1mm
+"D1@Sketch1@Part2-1.Part" = "Offset"
+"D2@Sketch2@Part2-1.Part" = "Offset"
+"D1@Sketch3@Part2-1.Part" = "Offset"
